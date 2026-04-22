@@ -1,0 +1,1 @@
+This folder contains the Incident Response Plan (IRP) and a specific Ransomware Playbook. These documents follow the NIST 'Respond' and 'Recover' functions. They outline the communication chain, containment strategies, and the mandatory 72-hour notification timeline required by Philippine law in the event of a data breach.
