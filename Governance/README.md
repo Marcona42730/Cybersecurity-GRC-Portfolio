@@ -1,0 +1,1 @@
+Governance establishes the 'rules of the road.' This folder contains the Acceptable Use Policy (AUP) and security guidelines drafted for a team of 40+ agents. It addresses Identity and Access Management (IAM) principles from the Microsoft SC-900 curriculum, focusing on Zero Trust, MFA requirements, and clean-desk policies to prevent internal data leaks.
