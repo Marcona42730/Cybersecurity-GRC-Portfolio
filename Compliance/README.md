@@ -1,0 +1,1 @@
+This folder focuses on adherence to the Republic Act No. 10173 (Data Privacy Act of 2012). It includes a Privacy Impact Assessment (PIA) that audits how PII (Personally Identifiable Information) is collected, stored, and disposed of within a financial services environment. The goal is to ensure the organization meets the standards of the National Privacy Commission (NPC)
