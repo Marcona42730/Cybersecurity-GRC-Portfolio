@@ -1,22 +1,24 @@
-# 🛡️ Microsoft Defender XDR Defense Strategy
-**Target Sector:** Financial Services / Philippine Banking
-**Operational Context:** BPI Direct BanKo & Security Bank Experience
-**Framework Alignment:** NIST CSF v2.0 (Detect & Respond)
+# 🛡️ Microsoft Defender XDR: Operational Defense Strategy
+**Target Systems:** Volare (Collections), ERP (Financials), and Banking CRM
+**Experience Alignment:** GCCS Associates, BPI Direct BanKo, Security Bank
+**Technical Milestone:** SC-900 Unit 3 Completion (60%)
 
-## 1. Objective
-To implement a unified security operations (SecOps) strategy using the Microsoft Defender XDR suite. This project demonstrates how to transition from siloed security tools to a coordinated defense-in-depth model, specifically designed to protect banking operational data and ensure system availability according to BSP standards.
+## 1. Unified Threat Protection (XDR)
+To protect sensitive financial data and ensure business continuity, the following Microsoft Defender components are mapped to specific operational risks.
 
-## 2. Technical Control Mapping (Risk-Based)
-| Security Control | Technical Implementation | Banking Risk Mitigation |
+| Defender Component | Financial/Banking Risk Mitigation | Operational Outcome |
 | :--- | :--- | :--- |
-| **Defender for Office 365** | Safe Links / Attachment Sandboxing | Neutralizes phishing and Business Email Compromise (BEC) targeting internal bank staff. |
-| **Defender for Endpoint** | EDR / Device Control Policies | Blocks unauthorized USB devices and detects malware on data-processing workstations. |
-| **Defender for Identity** | UEBA / Identity Protection | Monitors for "Pass-the-Hash" and lateral movement targeting internal bank admin accounts. |
-| **Defender for Cloud Apps** | SaaS Visibility / DLP | Prevents unauthorized data exfiltration to unapproved cloud storage or personal portals. |
+| **Defender for Office 365** | Prevents phishing attempts targeting **Credit Risk Analysts**. | Stops hackers from using fake email "proof of payments" to steal M365 credentials. |
+| **Defender for Endpoint** | Monitoring on **Workstations** used for Volare and CRM access. | Prevents "Screen Scraping" or Keylogger malware from stealing customer debt records. |
+| **Defender for Identity** | Detection of unauthorized access to the **ERP/Volare Database**. | Alerts the SOC if an account starts downloading unusual amounts of RCBC or BPI customer lists. |
+| **Defender for Cloud Apps** | Governance of **Dropbox** and Cloud-based CRM usage. | Ensures customer financial data is not moved to unauthorized personal cloud drives. |
 
-## 3. Operational Workflow & Governance
-* **Automated Containment:** High-risk endpoints are automatically isolated from the bank's production network to prevent the spread of ransomware or unauthorized data access.
-* **Audit Transparency:** All security telemetry is consolidated in the Microsoft Defender Portal, serving as primary evidence for BSP (Bangko Sentral ng Pilipinas) regulatory examinations and internal GRC audits.
+## 2. Incident Response & Leadership Oversight
+As a **Supervisor and Back-Up Leader (GCCS)**, I prioritize rapid response to maintain the integrity of the collection environment.
+
+* **Identity Isolation:** In the event of a compromised account, the M365 session is revoked instantly. This kills access to **Volare**, **ERP**, and **Dropbox** simultaneously via SSO.
+* **Proactive Monitoring:** Utilizing **Microsoft Secure Score** as a KPI to evaluate the security health of the Collections department and suggest improvements to management.
+* **Audit Defense:** Every incident response action is logged to provide evidence for **BSP** and **SEC** audits, proving that the bank effectively protects its "Crown Jewels" (Customer Data).
 
 ---
-*Target Milestone: 60% Completion (MS-SC-900 Unit 3)*
+*Status: Security Solutions & Incident Response Verified*
