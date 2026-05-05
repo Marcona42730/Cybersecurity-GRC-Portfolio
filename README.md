@@ -30,7 +30,7 @@ Seasoned **Risk and Operations professional** with 5+ years of experience in the
 * **Contents:** Privacy Impact Assessment (PIA).
 * **Focus:** Alignment with **RA 10173 (Data Privacy Act of 2012)** and National Privacy Commission (NPC) standards for PII handling.
 
-### 🔐 [05_Compliance_and_Privacy](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05_Compliance_and_Privacy)
+### 🔐 [Compliance_and_Privacy](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05_Compliance_and_Privacy)
 * **Contents:** Advanced Data Governance and Microsoft Purview implementation.
 * **Focus:** SC-900 Unit 4 Milestone – Information Protection and Sensitivity Labeling.
 
