@@ -13,32 +13,28 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 * **Republic Act No. 10173 (Data Privacy Act of 2012):** Alignment with National Privacy Commission (NPC) requirements for handling sensitive personal information (PII).
 * **NIST Cybersecurity Framework (CSF):** Standardized methodology for Risk Identification, Assessment, and Response.
 
-## 📂 Featured GRC Artifacts
 
 ### 📂 Project Structure
 
-### 📈 01. Risk Management
+### 📈 01. Introduction & Risk
 **[View Folder](./01_Introduction)**
-* **Cybersecurity Risk Register:** A comprehensive log of digital threats specifically tailored for a Collections/CRM environment.
-* **Inherent Risk Score Board:** A 5x5 Heat Map used to quantify and prioritize risks based on Impact and Likelihood.
+* Overview of career pivot and initial risk assessment goals.
 
 ### ⚙️ 02. Technical Skills
 **[View Folder](./02_Technical_Skills)**
-* **Platform Mastery:** Documentation of security configurations in M365, Microsoft Entra, and TryHackMe.
+* Documentation of M365, Microsoft Entra, and professional lab environments.
 
 ### 🛡️ 03. Governance & Policy
 **[View Folder](./03_Governance)**
-* **Identity Standards:** Formalized IAM protocols and RBAC for banking systems (Volare/ERP).
-* **Compliance Alignment:** Adherence to BSP Circular 454 and 808/1019.
+* IAM Standards, RBAC, and Fair Debt Collection (BSP 454) alignment.
 
 ### 🚨 04. Incident Response
 **[View Folder](./04_Incident_Response)**
-* **XDR Strategy:** Step-by-step recovery and monitoring plans using Microsoft Defender to meet regulatory notification requirements.
+* XDR Strategy for Volare, ERP, and CRM systems.
 
 ### 📁 05. Compliance & Privacy
 **[View Folder](./05_Compliance_and_Privacy)**
-* **Data Governance:** Implementation of Microsoft Purview and Priva for PII protection (SC-900 Unit 4 Milestone).
-
+* Data Governance, Purview, and PII protection (SC-900 Unit 4).
 ---
 
 ## 🛠️ Technical Skills & Tools
