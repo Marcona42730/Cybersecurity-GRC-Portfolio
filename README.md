@@ -22,20 +22,11 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 
 ### 📂 Project Structure
 
-### 📈 [01_Introduction](./01_Introduction)
-* **Risk Management:** Career pivot strategy and initial risk assessments.
-
-### ⚙️ [02_Technical_Skills](./02_Technical_Skills)
-* **Labs:** Documentation for M365, Microsoft Entra, and TryHackMe.
-
-### 🛡️ [03_Governance](./03_Governance)
-* **Policy:** IAM Standards, RBAC, and BSP 454 alignment for banking.
-
-### 🚨 [04_Incident_Response](./04_Incident_Response)
-* **Response:** XDR Strategy for Volare, ERP, and CRM systems.
-
-### 📁 [05_Compliance_and_Privacy](./05_Compliance_and_Privacy)
-* **Unit 4 Milestone:** Data Governance, Microsoft Purview, and PII protection.
+### 📈 [01. Introduction & Risk Assessment](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/01_Introduction)
+### ⚙️ [02. Technical Skills & Labs](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/02_Technical_Skills)
+### 🛡️ [03. Governance & Policy](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/03_Governance)
+### 🚨 [04. Incident Response](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/04_Incident_Response)
+### 📁 [05. Compliance & Privacy](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05_Compliance_and_Privacy)
 
 ## 🚀 Current Learning Path
 *   **Certification:** Preparing for the **Microsoft SC-900** Exam.
