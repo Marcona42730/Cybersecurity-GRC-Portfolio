@@ -15,22 +15,29 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 
 ## 📂 Featured GRC Artifacts
 
+### 📂 Project Structure
+
 ### 📈 01. Risk Management
-**[View Folder](./Risk-Management)**
-* **Cybersecurity Risk Register:** A comprehensive log of digital threats (e.g., Phishing, Unauthorized Access) specifically tailored for a Collections/CRM environment.
+**[View Folder](./01_Introduction)**
+* **Cybersecurity Risk Register:** A comprehensive log of digital threats specifically tailored for a Collections/CRM environment.
 * **Inherent Risk Score Board:** A 5x5 Heat Map used to quantify and prioritize risks based on Impact and Likelihood.
 
-### ⚖️ 02. Compliance & Privacy
-**[View Folder](./Compliance)**
-* **Privacy Impact Assessment (PIA):** A detailed audit of the data lifecycle for loan processing, ensuring compliance with the PH Data Privacy Act.
+### ⚙️ 02. Technical Skills
+**[View Folder](./02_Technical_Skills)**
+* **Platform Mastery:** Documentation of security configurations in M365, Microsoft Entra, and TryHackMe.
 
-### 📜 03. Governance & Policy
-**[View Folder](./Governance)**
-* **Acceptable Use Policy (AUP):** A formal document defining the security responsibilities for employees and remote agents to protect company assets.
+### 🛡️ 03. Governance & Policy
+**[View Folder](./03_Governance)**
+* **Identity Standards:** Formalized IAM protocols and RBAC for banking systems (Volare/ERP).
+* **Compliance Alignment:** Adherence to BSP Circular 454 and 808/1019.
 
 ### 🚨 04. Incident Response
-**[View Folder](./Incident-Response)**
-* **Ransomware & Breach Playbook:** A step-by-step recovery plan for containing security incidents and meeting the 72-hour NPC notification requirement.
+**[View Folder](./04_Incident_Response)**
+* **XDR Strategy:** Step-by-step recovery and monitoring plans using Microsoft Defender to meet regulatory notification requirements.
+
+### 📁 05. Compliance & Privacy
+**[View Folder](./05_Compliance_and_Privacy)**
+* **Data Governance:** Implementation of Microsoft Purview and Priva for PII protection (SC-900 Unit 4 Milestone).
 
 ---
 
