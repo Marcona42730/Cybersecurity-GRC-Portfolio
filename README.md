@@ -22,29 +22,20 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 
 ### 📂 Project Structure
 
-### 📈 01. Introduction & Risk Assessment
-**[View Folder](./01_Introduction)**
-* **Career Pivot & Strategy:** High-level overview of applying banking risk logic to cybersecurity.
-* **Risk Register:** Documentation of digital threats tailored for Collections/CRM environments.
+### 📈 [01_Introduction](./01_Introduction)
+* **Risk Management:** Career pivot strategy and initial risk assessments.
 
-### ⚙️ 02. Technical Skills & Labs
-**[View Folder](./02_Technical_Skills)**
-* **Platform Mastery:** Configurations for Microsoft Entra ID, M365 Security Center, and TryHackMe labs.
+### ⚙️ [02_Technical_Skills](./02_Technical_Skills)
+* **Labs:** Documentation for M365, Microsoft Entra, and TryHackMe.
 
-### 🛡️ 03. Governance & Policy
-**[View Folder](./03_Governance)**
-* **Identity Standards:** Formalized IAM protocols and RBAC for banking systems (Volare/ERP).
-* **Compliance Mapping:** Direct alignment between technical controls and BSP regulatory requirements.
+### 🛡️ [03_Governance](./03_Governance)
+* **Policy:** IAM Standards, RBAC, and BSP 454 alignment for banking.
 
-### 🚨 04. Incident Response
-**[View Folder](./04_Incident_Response)**
-* **XDR Strategy:** Step-by-step recovery and monitoring plans using Microsoft Defender.
+### 🚨 [04_Incident_Response](./04_Incident_Response)
+* **Response:** XDR Strategy for Volare, ERP, and CRM systems.
 
-### 📁 05. Compliance & Privacy
-**[View Folder](./05_Compliance_and_Privacy)**
-* **Data Governance:** Implementation of Microsoft Purview and Priva for PII protection (Unit 4).
-
----
+### 📁 [05_Compliance_and_Privacy](./05_Compliance_and_Privacy)
+* **Unit 4 Milestone:** Data Governance, Microsoft Purview, and PII protection.
 
 ## 🚀 Current Learning Path
 *   **Certification:** Preparing for the **Microsoft SC-900** Exam.
@@ -52,6 +43,7 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 *   **Objective:** To pivot into a GRC Officer or Security Analyst role within the Fintech/Banking sector.
 
 ---
+
 *Last Updated: May 2026*
 
 ## 🛠️ Technical Skills & Tools
