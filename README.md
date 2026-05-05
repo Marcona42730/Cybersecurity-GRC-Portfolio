@@ -20,7 +20,7 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 ### 📈 01. Introduction & Risk Assessment
 **[View Folder](./01_Introduction)**
@@ -30,21 +30,19 @@ This portfolio demonstrates the application of global cybersecurity frameworks w
 ### ⚙️ 02. Technical Skills & Labs
 **[View Folder](./02_Technical_Skills)**
 * **Platform Mastery:** Configurations for Microsoft Entra ID, M365 Security Center, and TryHackMe labs.
-* **Documentation:** Technical write-ups on system hardening and secure configuration.
 
 ### 🛡️ 03. Governance & Policy
 **[View Folder](./03_Governance)**
-* **Identity Standards:** Formalized IAM protocols and RBAC for banking systems (**Volare/ERP**).
+* **Identity Standards:** Formalized IAM protocols and RBAC for banking systems (Volare/ERP).
 * **Compliance Mapping:** Direct alignment between technical controls and BSP regulatory requirements.
 
 ### 🚨 04. Incident Response
 **[View Folder](./04_Incident_Response)**
-* **XDR Strategy:** Step-by-step recovery and monitoring plans using **Microsoft Defender** to meet the 72-hour regulatory notification requirement.
+* **XDR Strategy:** Step-by-step recovery and monitoring plans using Microsoft Defender.
 
-### 📁 05. Compliance & Privacy (Current Milestone)
+### 📁 05. Compliance & Privacy
 **[View Folder](./05_Compliance_and_Privacy)**
-* **Data Governance:** Implementation of **Microsoft Purview** and **Priva** for PII protection.
-* **Unit 4 Alignment:** Focused on Information Protection, Sensitivity Labels, and Data Loss Prevention (DLP).
+* **Data Governance:** Implementation of Microsoft Purview and Priva for PII protection (Unit 4).
 
 ---
 
