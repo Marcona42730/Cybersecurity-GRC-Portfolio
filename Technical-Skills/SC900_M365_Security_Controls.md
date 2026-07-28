@@ -1,3 +1,7 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Technical Security Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Technical-Skills)
+---
+
 # M365 Security & Identity Control Architecture (SC-900 Alignment)
 
 | Document Version | 1.0.0 |
@@ -37,3 +41,9 @@ This document outlines the operational implementation of identity, access, and c
         │
         ├───► [ Block Access ] (If Risk Level = High or Legacy Auth)
         └───► [ Grant Minimal Access ] (Session Monitored)
+
+```
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
