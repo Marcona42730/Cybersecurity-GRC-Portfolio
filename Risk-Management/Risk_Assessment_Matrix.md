@@ -1,3 +1,7 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Risk Management Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Risk-Management)
+---
+
 # Information Security Risk Assessment Matrix
 
 ## 1. Qualitative Scoring Model
@@ -17,3 +21,7 @@ Risk Score is calculated as: **Risk Score = Likelihood (1–5) × Impact (1–5)
 | **RSK-01** | Unauthorized personnel accesses customer financial data due to over-permissioned account. | Core Banking Portal | 4 | 5 | **20 (Critical)** | Implement Role-Based Access Control (RBAC) via Microsoft Entra ID; enforce Least Privilege. | **6 (Medium)** | ISO/IEC 27001 Control A.5.15 / RA 10173 |
 | **RSK-02** | Credential harvesting via phishing attack targeting frontline operational staff. | O365 / Corporate Email | 4 | 4 | **16 (High)** | Mandatory FIDO2 / MFA via Microsoft Authenticator; deploy automated anti-phishing in Defender. | **4 (Low)** | NIST CSF PR.AA-05 |
 | **RSK-03** | Delayed access revocation for terminated employees (Insider Threat). | Internal Knowledge Base & CRM | 3 | 4 | **12 (High)** | Automate HR Offboarding workflows tied directly to Entra ID account disabling. | **3 (Low)** | ISO/IEC 27001 Control A.5.18 |
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
