@@ -1,3 +1,25 @@
+# Enterprise Identity & Access Management (IAM) Standard
+
+| Document Version | 1.0.0 |
+| :--- | :--- |
+| **Owner** | Cybersecurity GRC / IT Governance |
+| **Target Audience** | All Employees, Contractors, System Administrators |
+| **Regulatory Alignment** | ISO/IEC 27001:2022 (A.5.15, A.5.18), NIST CSF v2.0 (PR.AA-01), RA 10173 DPA, BSP Circular 1086 |
+
+---
+
+### 1. Control Framework Mapping Table
+
+| Control ID | Framework Reference | Policy Requirement Summary |
+| :--- | :--- | :--- |
+| **IAM-01** | **ISO 27001: A.5.15** | Role-Based Access Control (RBAC) must enforce the Principle of Least Privilege. |
+| **IAM-02** | **NIST PR.AA-01** | Multi-Factor Authentication (MFA) is mandatory for all remote and privileged sign-ins. |
+| **IAM-03** | **RA 10173 / NPC** | User access logs for systems processing Personal Identifiable Information (PII) must be retained for audit trails. |
+| **IAM-04** | **BSP Circular 1086** | Privileged access credentials must undergo quarterly Access Review Certifications. |
+
+---
+
+
 # 🏛️ Enterprise Identity & Access Management (IAM) Standards
 **Scope:** Multi-Platform Financial Operations & Compliance Oversight
 **Experience Alignment:** BPI Direct BanKo, Security Bank, GCCS Associates, Billease, Street Lending
