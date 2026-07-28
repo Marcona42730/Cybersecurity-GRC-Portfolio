@@ -1,3 +1,7 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Incident Response Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Incident-Response)
+---
+
 # 🛡️ Microsoft Defender XDR: Operational Defense Strategy
 **Target Systems:** Volare (Collections), ERP (Financials), and Banking CRM
 **Experience Alignment:** GCCS Associates, BPI Direct BanKo, Security Bank
@@ -22,3 +26,7 @@ As a **Supervisor and Back-Up Leader (GCCS)**, I prioritize rapid response to ma
 
 ---
 *Status: Security Solutions & Incident Response Verified*
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
