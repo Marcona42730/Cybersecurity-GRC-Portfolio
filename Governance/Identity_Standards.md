@@ -5,7 +5,6 @@
 | **Owner** | Cybersecurity GRC / IT Governance |
 | **Target Audience** | All Employees, Contractors, System Administrators |
 | **Regulatory Alignment** | ISO/IEC 27001:2022 (A.5.15, A.5.18), NIST CSF v2.0 (PR.AA-01), RA 10173 DPA, BSP Circular 1086 |
-
 ---
 
 ### 1. Control Framework Mapping Table
