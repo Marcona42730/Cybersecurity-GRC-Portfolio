@@ -1,3 +1,8 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Compliance & Privacy Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05_Compliance_and_Privacy)
+---
+
+
 # 📁 Data Governance & Information Protection
 **Scope:** Customer PII Management (Banking, Insurance, & Fintech)
 **Technical Framework:** Microsoft Purview & Microsoft Priva
@@ -27,3 +32,7 @@ Utilizing **Microsoft Priva** to automate privacy risk mitigation for the Collec
 
 ---
 *Status: Compliance Module Implemented (SC-900 Unit 4)*
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
