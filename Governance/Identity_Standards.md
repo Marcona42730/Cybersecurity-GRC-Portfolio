@@ -1,4 +1,10 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Governance Module Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Governance)
+---
+
+
 # Enterprise Identity & Access Management (IAM) Standard
+
 
 | Document Version | 1.0.0 |
 | :--- | :--- |
@@ -56,4 +62,11 @@ In alignment with **BSP Circular 454**, strict technical and behavioral controls
 * **GRC Outcome:** Reduced reputational risk for clients by maintaining a 100% compliance rate during internal quality audits.
 
 ---
+
+
 *Status: Professional Governance & Ethics Standard Implemented*
+
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
