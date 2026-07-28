@@ -1,3 +1,7 @@
+---
+[⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md) | [📂 Incident Response Overview](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Incident-Response)
+---
+
 # Incident Response & Severity Escalation Standard Operating Procedure (SOP)
 
 | Document Version | 1.0.0 |
@@ -28,3 +32,9 @@ This Standard Operating Procedure (SOP) defines the operational workflow for det
 
 ```text
   [1. Preparation] ──► [2. Detection & Analysis] ──► [3. Containment, Eradication & Recovery] ──► [4. Post-Incident Activity]
+
+```
+
+---
+[⬆️ Return to Top](#) | [⬅️ Back to Main Portfolio Root](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/blob/main/README.md)
+---
