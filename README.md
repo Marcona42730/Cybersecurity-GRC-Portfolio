@@ -10,6 +10,7 @@
 ---
 
 ## 🚩 Professional Summary
+
 Seasoned **Risk and Operations professional** with 5+ years of experience in the Philippine Banking and Fintech sectors. I specialize in bridging the gap between technical IT infrastructure and business regulatory requirements, having led teams of up to **40+ agents** in high-pressure environments.
 
 ---
