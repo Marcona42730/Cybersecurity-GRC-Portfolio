@@ -5,7 +5,7 @@
 [![Risk Management](https://img.shields.io/badge/Risk-NIST%20CSF%20v2.0-red)](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Risk-Management)
 [![Incident Response](https://img.shields.io/badge/Incident%20Response-NIST%20SP%20800--61-yellow)](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Incident-Response)
 [![Technical Security](https://img.shields.io/badge/Technical-Entra%20ID%20%7C%20M365-orange)](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/Technical-Skills)
-[![Compliance](https://img.shields.io/badge/Compliance-RA%2010173%20%7C%20BSP%201086-green)](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05%20Compliance%20and%20Privacy)
+[![Compliance](https://img.shields.io/badge/Compliance-RA%2010173%20%7C%20BSP%201086-green)](https://github.com/Marcona42730/Cybersecurity-GRC-Portfolio/tree/main/05_Compliance_and_Privacy)
 
 ---
 
